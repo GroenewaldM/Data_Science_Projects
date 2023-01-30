@@ -11,7 +11,7 @@ This program:
 ## Getting Started
 
 * Download the distribution code from https://github.com/GroenewaldM/Data_Science_Projects/tree/main/disease_spread_simulation.
-* disease_simulation.py
+* Run disease_simulation.py
 
 
 ## Example Output
