@@ -14,15 +14,17 @@ This program:
 
 ## Understanding
 
-In statistics, the coefficient of determination, denoted R², is the proportion of the variation in the dependent variable that is predictable from the independent variable. In general, the higher the R-squared, the better the model fits your data
+In statistics, the coefficient of determination, denoted R², is the proportion of the variation in the dependent variable that is predictable from the independent variable. In general, the higher the R-squared value, the better the model fits your data.
 
 This program calculates the R² value for each model to determine the best fit.
 
 
-### Example Output
+## Example Output
 
 py -m curve_fitting
+
 *Figure 1 pop-up*
+
 *Figure 2 pop-up*
 
 
