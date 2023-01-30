@@ -4,8 +4,8 @@
 
 This program:
 * Simulates the growth of a virus population (total virus population as well as drug resistant virus population) within a patient.
-* Simulates the virus population and compares the population size of of both drug resistant and non-drug resistant virises after the addition of particular drugs.
-* Plots the resistant and non-resistant virus population over time with the addition of different types of drugs.  
+* Simulates the virus population and compares the total population size to the population size of drug resistant viruses after the addition of particular drugs.
+* Plots the total virus population as well as the drug resistant virus population over time with the addition of different types of drugs.  
 
 
 ## Getting Started
