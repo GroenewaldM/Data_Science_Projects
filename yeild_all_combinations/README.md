@@ -9,7 +9,7 @@ This program yeilds all possible combinations of items (in this case it is cows)
 ## Getting Started
 
 * Download the distribution code from https://github.com/GroenewaldM/Data_Science_Projects/tree/main/yeild_all_combinations.
-* yeild_all_combos.py
+* Run yeild_all_combos.py
 
 
 ## Understanding
@@ -17,9 +17,10 @@ This program yeilds all possible combinations of items (in this case it is cows)
 The main function takes 2 arguments: a dictionary of items names and their weights and the maximum weight that can be take during each trip.
 
 
-### Example Output
+## Example Output
 
 py -m yeild_all_combos
+
 [['MooMoo', 'Miss Bella'], ['Clover', 'Polaris', 'Milkshake'], ['Louis', 'Horns'], ['Lotus', 'Muscles'], ['Patches']]
 [['Abby', 'Buttercup', 'Rose', 'Betsy'], ['Coco', 'Willow'], ['Starlight', 'Luna']]
 
