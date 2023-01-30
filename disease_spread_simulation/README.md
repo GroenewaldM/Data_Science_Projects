@@ -1,4 +1,4 @@
-# Yeild All Combos
+# Disease Spread Simulation
 
 ## Summary
 
@@ -14,9 +14,10 @@ This program:
 * disease_simulation.py
 
 
-### Example Output
+## Example Output
 
 py -m disease_simulation
+
 *Figure 1 pop-up*
 
 ## Authors
