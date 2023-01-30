@@ -17,10 +17,10 @@ This program:
 
 ## Understanding
 
-The two types of robots that are simulated are StandardRobot and RandomWalkRobot. StandardRobot navigates by moving in a straight line intil a boundary of the room has been reached upon which it changes direction randomly and tries to move again.RandomWalkRobot randomly changes direction with every move step.
+The two types of robots that are simulated are StandardRobot and RandomWalkRobot. StandardRobot navigates by moving in a straight line intil a boundary of the room has been reached upon which it changes direction randomly and tries to move again. RandomWalkRobot randomly changes direction with every move.
 
 testRobotMovement simulates the movement of a single robot in a 5x5 room while runSimulation allows you to select a number of robots as well as the size of a room.
-To use runSimulation uncomment the appropriatly commented sections sections of code.
+To use runSimulation uncomment the appropriatly commented and labled sections of code.
 
 ## Example Output
 
